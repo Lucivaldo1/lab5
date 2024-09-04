@@ -1,0 +1,24 @@
+Warning: your license expires in 0 days!
+Ansys Lumerical 2022 R1.3 Finite Difference Eigenmode Solver Version 7.19.3016 (Windows 64bit)
+ expires (month/day/year): 9/4/2024
+using config file: Ansys Licensing set with ANSYSLMD_LICENSE_FILE
+license host: 1055@10.75.13.24
+current time: qua set 4 15:23:54 2024
+Running on host: DESKTOP-16I6F0S
+Running lms file: C:\Program Files\Lumerical\v221\bin\fd-engine-msmpi.exe -t 24 -remote -hide C:/Users/luciv/Documents/Lucivaldo/Lab_05/lab5_FED_pos/FED_pos_3.lms
+Running MODE Simulation
+Starting meshing
+Simulation size in gridpoints: 1 x 202 x 202
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 202 x 202
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 202 x 202
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
